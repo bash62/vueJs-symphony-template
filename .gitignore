@@ -4,6 +4,7 @@ vendor
 config
 migrations
 bin
+var
 logs
 *.log
 npm-debug.log*
